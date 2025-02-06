@@ -1,10 +1,9 @@
 ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+title: "GT RECAST: REasoning on Complex And Structured daTa"
 layout: home
 ---
-
-# GT RECAST : REasoning on Complex And Structured daTa
 
 ## Responsables
 - [Camille Bourgaux](https://www.di.ens.fr/camille.bourgaux/), DI ENS, CNRS
