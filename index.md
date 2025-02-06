@@ -1,7 +1,7 @@
 ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-title: GT RECAST
+title: "GT RECAST : REasoning on Complex And Structured daTa"
 layout: home
 ---
 
@@ -11,7 +11,7 @@ layout: home
 - [Pierre-Henri Paris](https://phparis.net/), LISN, Université Paris-Saclay
 
 ## Thématiques
-RECAST est un atelier inter-GDR ([MaDICS](https://www.madics.fr/) et [RADIA](https://gdr-radia.cnrs.fr/)), avec deux thématiques centrales :
+RECAST est un groupement de travail inter-GDR ([MaDICS](https://www.madics.fr/) et [RADIA](https://gdr-radia.cnrs.fr/)), avec deux thématiques centrales :
 
 - la gestion de données complexes (sciences des données)
 - la représentation des connaissances et le raisonnement automatique (intelligence artificielle) 
@@ -21,11 +21,11 @@ RECAST est un atelier inter-GDR ([MaDICS](https://www.madics.fr/) et [RADIA](htt
 
 Ce groupe de travail vise à rassembler des membres des GDRs MaDICS et RADIA pour travailler sur des techniques de représentation de connaissances et de raisonnements, dans le but de mieux exploiter des données complexes. Les problèmes pertinents pour ce GT peuvent concerner:
 
-- différents formalismes de représentations des connaissances: bases de données relationelles ou NoSQL, ontologies, property graphs, graphes de connaissances...
+- différents formalismes de représentations des connaissances: bases de données relationnelles ou NoSQL, ontologies, property graphs, graphes de connaissances...
 
 - différentes sémantiques: hypothèse du monde ouvert, fermé, ou semi-ouvert, sémantiques pour des données incertaines (probabilistes, possibilistes, logiques floues...) et/ou incohérentes, spatio-temporelles...
 
-- différents types de raisonnement: déduction, abduction, ou induction, accès aux données en présences d'ontologies, explications, complétion ou nettoyage de bases de connaissances...
+- différents types de raisonnement: déduction, abduction, ou induction, accès aux données en présence d'ontologies, explications, complétion ou nettoyage de bases de connaissances...
 
 - différentes approches: approches purement symboliques ou neuro-symboliques, combinant raisonnement logique et apprentissage automatique sur des données complexes
 
