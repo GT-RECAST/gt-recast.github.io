@@ -46,7 +46,8 @@ logo: "/assets/images/logo.png"
 analytics:
   provider: "google-gtag"
   google:
-    tracking_id: "GTM-WB5TM5R7"
+    tracking_id: "G-7R5SYQB2T0"
     anonymize_ip: false # default
+  
 
 
