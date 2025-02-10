@@ -11,7 +11,7 @@ layout: home
 - [Pierre-Henri Paris](https://phparis.net/), LISN, Université Paris-Saclay
 
 ## Thématiques
-RECAST est un groupement de travail inter-GDR ([MaDICS](https://www.madics.fr/) et [RADIA](https://gdr-radia.cnrs.fr/)), avec deux thématiques centrales :
+RECAST est un groupe de travail (GT) inter-GDR ([MaDICS](https://www.madics.fr/) et [RADIA](https://gdr-radia.cnrs.fr/)), avec deux thématiques centrales :
 
 - la gestion de données complexes (sciences des données)
 - la représentation des connaissances et le raisonnement automatique (intelligence artificielle) 
