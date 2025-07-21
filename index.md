@@ -47,6 +47,9 @@ Le GT se situe en amont de domaines applicatifs particuliers, tout en ayant iden
 
 
 ## Organisation
-Ce groupe de travail fait suite à l’action [RoD](https://www.irit.fr/ROD/) (2017-2020) et à l'atelier [ROCED](https://www.irit.fr/ROCED/) (2021-2023), également soutenus par MADICS et le GDR RADIA (anciennement GDR IA).
+Ce groupe de travail fait suite à l’action [RoD](https://www.irit.fr/ROD/) (2017-2020) et à l'atelier [ROCED](https://www.irit.fr/ROCED/) (2021-2023), également soutenus par MaDICS et le GDR RADIA (anciennement GDR IA).
 
-Une première journée thématique sera organisée en 2025.
+## Agenda
+- 17 novembre 2025, Paris: première journée thématique du GT RECAST (précisions à venir)
+- 1 juillet 2025, Dijon: session poster des GT du GDR RADIA lors de la [journée du GDR RADIA](https://pfia2025.u-bourgogne.fr/Ateliers/GdR%20Radia/)
+- 28 mai 2025, Toulouse: sessions du GT RECAST et de l'axe "Modèles de connaissances et raisonnement" lors du [symposium du GDR MaDICS](https://www.madics.fr/event/symposium-madics-7/)
