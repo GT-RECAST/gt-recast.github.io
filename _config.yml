@@ -31,6 +31,18 @@ theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+footer:
+  since: "2025"
+defaults:
+  # all
+  - scope:
+      path: ""
+      # type: pages
+    values:
+      layout: single
+      toc: true
+      toc_label: "Sur cette page"
+      toc_sticky: true
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
