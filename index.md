@@ -4,8 +4,6 @@
 title: "GT RECAST: <em>REasoning on Complex And Structured daTa</em>"
 layout: home
 toc: true
-toc_label: "Sur cette page"
-toc_sticky: true
 ---
 
 ## Responsables
