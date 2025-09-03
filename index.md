@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 title: "GT RECAST: <em>REasoning on Complex And Structured daTa</em>"
 layout: home
+toc: true
 ---
 
 ## Responsables

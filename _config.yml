@@ -22,7 +22,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://gt-recast.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  gt-recast
-include: ["_pages"]
+include: ["events"]
 
 # Build settings
 markdown: kramdown
