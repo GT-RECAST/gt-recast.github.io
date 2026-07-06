@@ -13,6 +13,7 @@ layout: single
 - [Pierre-Henri Paris](https://phparis.net/), LISN, Université Paris-Saclay
 
 ## Agenda
+- 17 novembre 2026, Toulouse: atelier à la conférence [SAGEO](https://sageo2026.sciencesconf.org/resource/page/id/18)
 - 2 juillet 2026, Arras: [journée du GDR RADIA](https://pfia26.cril.fr/ateliers/atelier1/atelier-gdr-radia/)
 - 2 juin 2026, Avignon: session du GT RECAST lors du [symposium du GDR MaDICS](https://www.madics.fr/event/symposium-madics-8/)
 - 17 novembre 2025, Paris: première journée thématique du GT RECAST (plus d'informations [ici](/events/2025-11-17.md))
